@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 2px;
+    box-sizing: border-box;
+}
+
+.main{
+    position: relative;
+}

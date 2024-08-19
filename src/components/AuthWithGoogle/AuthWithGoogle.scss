@@ -1,0 +1,26 @@
+.auth img{
+    width: 35px;
+    height: 35px;
+}
+
+.auth{
+    display: block;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+    max-width: 400px;
+    margin: 50px auto;
+    width: 330px;
+    background: none;
+    border: none;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.57);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.57);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.57);
+}
+
+.auth span{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 0 0 0 20px;
+}
